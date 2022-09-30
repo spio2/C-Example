@@ -1,0 +1,15 @@
+D:\Лианна\Учеба\Разработчик 2022 г\Блок 3. Языки программирования\Examples\Example001_HelloWord\bin\Debug\net6.0\Example001_HelloWord.exe
+D:\Лианна\Учеба\Разработчик 2022 г\Блок 3. Языки программирования\Examples\Example001_HelloWord\bin\Debug\net6.0\Example001_HelloWord.deps.json
+D:\Лианна\Учеба\Разработчик 2022 г\Блок 3. Языки программирования\Examples\Example001_HelloWord\bin\Debug\net6.0\Example001_HelloWord.runtimeconfig.json
+D:\Лианна\Учеба\Разработчик 2022 г\Блок 3. Языки программирования\Examples\Example001_HelloWord\bin\Debug\net6.0\Example001_HelloWord.dll
+D:\Лианна\Учеба\Разработчик 2022 г\Блок 3. Языки программирования\Examples\Example001_HelloWord\bin\Debug\net6.0\Example001_HelloWord.pdb
+D:\Лианна\Учеба\Разработчик 2022 г\Блок 3. Языки программирования\Examples\Example001_HelloWord\obj\Debug\net6.0\Example001_HelloWord.csproj.AssemblyReference.cache
+D:\Лианна\Учеба\Разработчик 2022 г\Блок 3. Языки программирования\Examples\Example001_HelloWord\obj\Debug\net6.0\Example001_HelloWord.GeneratedMSBuildEditorConfig.editorconfig
+D:\Лианна\Учеба\Разработчик 2022 г\Блок 3. Языки программирования\Examples\Example001_HelloWord\obj\Debug\net6.0\Example001_HelloWord.AssemblyInfoInputs.cache
+D:\Лианна\Учеба\Разработчик 2022 г\Блок 3. Языки программирования\Examples\Example001_HelloWord\obj\Debug\net6.0\Example001_HelloWord.AssemblyInfo.cs
+D:\Лианна\Учеба\Разработчик 2022 г\Блок 3. Языки программирования\Examples\Example001_HelloWord\obj\Debug\net6.0\Example001_HelloWord.csproj.CoreCompileInputs.cache
+D:\Лианна\Учеба\Разработчик 2022 г\Блок 3. Языки программирования\Examples\Example001_HelloWord\obj\Debug\net6.0\Example001_HelloWord.dll
+D:\Лианна\Учеба\Разработчик 2022 г\Блок 3. Языки программирования\Examples\Example001_HelloWord\obj\Debug\net6.0\refint\Example001_HelloWord.dll
+D:\Лианна\Учеба\Разработчик 2022 г\Блок 3. Языки программирования\Examples\Example001_HelloWord\obj\Debug\net6.0\Example001_HelloWord.pdb
+D:\Лианна\Учеба\Разработчик 2022 г\Блок 3. Языки программирования\Examples\Example001_HelloWord\obj\Debug\net6.0\Example001_HelloWord.genruntimeconfig.cache
+D:\Лианна\Учеба\Разработчик 2022 г\Блок 3. Языки программирования\Examples\Example001_HelloWord\obj\Debug\net6.0\ref\Example001_HelloWord.dll
